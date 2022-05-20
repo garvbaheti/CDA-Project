@@ -1,0 +1,209 @@
+﻿S.No.,GeoAreaName,2001,2017
+1,Afghanistan,11,34
+2,Albania,41,78
+3,Algeria,95,95
+4,Andorra,95,95
+5,Angola,44,48
+6,Antigua and Barbuda,95,95
+7,Argentina,95,95
+8,Armenia,83,95
+9,Australia,95,95
+10,Australia and New Zealand,95,95
+11,Austria,95,95
+12,Azerbaijan,74,95
+13,Bahamas,95,95
+14,Bahrain,95,95
+15,Bangladesh,9,21
+16,Barbados,95,95
+17,Belarus,95,95
+18,Belgium,95,95
+19,Belize,81,83
+20,Benin,5,5
+21,Bhutan,32,77
+22,Bolivia (Plurinational State of),63,83
+23,Bosnia and Herzegovina,51,44
+24,Botswana,47,54
+25,Brazil,88,95
+26,Brunei Darussalam,95,95
+27,Burkina Faso,5,9
+28,Burundi,5,5
+29,Cabo Verde,63,77
+30,Cambodia,5,20
+31,Cameroon,10,24
+32,Canada,95,95
+33,Central African Republic,5,5
+34,Central and Southern Asia,27,47
+35,Central Asia,78,87
+36,Chad,5,5
+37,Chile,95,95
+38,China,44,63
+39,Colombia,79,92
+40,Comoros,5,7
+41,Congo,10,30
+42,Cook Islands,81,78
+43,Costa Rica,89,95
+44,Côte d'Ivoire,18,27
+45,Croatia,86,87
+46,Cyprus,95,95
+47,Czechia,95,95
+48,Democratic People's Republic of Korea,5,10
+49,Democratic Republic of the Congo,5,5
+50,Denmark,95,95
+51,Djibouti,5,6
+52,Dominica,77,82
+53,Dominican Republic,85,88
+54,Eastern and South-Eastern Asia,43,65
+55,Eastern Asia,50,66
+56,Ecuador,89,94
+57,Egypt,87,95
+58,El Salvador,59,90
+59,Equatorial Guinea,19,24
+60,Eritrea,5,9
+61,Estonia,95,95
+62,Eswatini,25,52
+63,Ethiopia,5,5
+64,Europe,95,95
+65,Europe and Northern America,95,95
+66,Fiji,30,28
+67,Finland,95,95
+68,France,95,95
+69,Gabon,67,87
+70,Gambia,5,5
+71,Georgia,49,79
+72,Germany,95,95
+73,Ghana,7,26
+74,Greece,95,95
+75,Grenada,92,90
+76,Guatemala,41,46
+77,Guinea,5,5
+78,Guinea-Bissau,5,5
+79,Guyana,38,74
+80,Haiti,5,5
+81,Honduras,31,55
+82,Hungary,95,95
+83,Iceland,95,95
+84,India,24,47
+85,Indonesia,7,76
+86,Iran (Islamic Republic of),95,95
+87,Iraq,80,95
+88,Ireland,95,95
+89,Israel,95,95
+90,Italy,95,95
+91,Jamaica,78,84
+92,Japan,95,95
+93,Jordan,95,95
+94,Kazakhstan,85,95
+95,Kenya,5,10
+96,Kiribati,5,5
+97,Kuwait,95,95
+98,Kyrgyzstan,54,76
+99,Lao People's Democratic Republic,5,7
+100,Latin America and the Caribbean,81,88
+101,Latvia,95,95
+102,Lesotho,18,38
+103,Liberia,5,5
+104,Lithuania,95,95
+105,Luxembourg,95,95
+106,Madagascar,5,5
+107,Malawi,5,5
+108,Malaysia,95,95
+109,Maldives,60,95
+110,Mali,5,5
+111,Malta,95,95
+112,Marshall Islands,18,64
+113,Mauritania,31,44
+114,Mauritius,94,95
+115,Mexico,84,84
+116,Micronesia (Federated States of),27,9
+117,Monaco,95,95
+118,Mongolia,23,48
+119,Montenegro,68,57
+120,Morocco,91,95
+121,Mozambique,5,5
+122,Myanmar,5,25
+123,Namibia,35,45
+124,Nauru,87,90
+125,Nepal,8,29
+126,Netherlands,95,95
+127,New Zealand,95,95
+128,Nicaragua,36,47
+129,Niger,5,5
+130,Nigeria,5,8
+131,Niue,93,85
+132,North Macedonia,59,65
+133,Northern Africa,78,90
+134,Northern Africa and Western Asia,83,91
+135,Northern America,95,95
+136,Norway,95,95
+137,Oceania,78,76
+138,Oceania (exc. Australia and New Zealand),11,11
+139,Oman,95,95
+140,Pakistan,26,43
+141,Palau,95,95
+142,Panama,81,88
+143,Papua New Guinea,6,7
+144,Paraguay,48,67
+145,Peru,46,78
+146,Philippines,39,45
+147,Poland,95,95
+148,Portugal,95,95
+149,Qatar,95,95
+150,Republic of Korea,95,95
+151,Republic of Moldova,68,95
+152,Romania,80,77
+153,Russian Federation,95,91
+154,Rwanda,5,5
+155,Saint Kitts and Nevis,95,95
+156,Saint Lucia,88,95
+157,Saint Vincent and the Grenadines,95,95
+158,Samoa,21,33
+159,San Marino,95,95
+160,Sao Tome and Principe,5,5
+161,Saudi Arabia,95,95
+162,Senegal,36,24
+163,Serbia,64,67
+164,Seychelles,95,95
+165,Sierra Leone,5,5
+166,Singapore,95,95
+167,Slovakia,95,95
+168,Slovenia,95,95
+169,Small island developing States (SIDS),48,50
+170,Solomon Islands,9,9
+171,Somalia,5,5
+172,South Africa,57,85
+173,South Sudan,5,5
+174,South-Eastern Asia,25,64
+175,Southern Asia,26,46
+176,Spain,95,95
+177,Sri Lanka,21,29
+178,Sub-Saharan Africa,10,14
+179,Sudan,14,48
+180,Suriname,79,93
+181,Sweden,95,95
+182,Switzerland,95,95
+183,Syrian Arab Republic,95,95
+184,Tajikistan,42,80
+185,Thailand,64,79
+186,Timor-Leste,5,11
+187,Togo,5,8
+188,Tonga,58,51
+189,Trinidad and Tobago,95,95
+190,Tunisia,95,95
+191,Turkey,94,95
+192,Turkmenistan,95,95
+193,Tuvalu,33,42
+194,Uganda,5,5
+195,Ukraine,92,95
+196,United Arab Emirates,95,95
+197,United Kingdom of Great Britain and Northern Ireland,95,95
+198,United Republic of Tanzania,5,5
+199,United States of America,95,95
+200,Uruguay,95,95
+201,Uzbekistan,84,85
+202,Vanuatu,17,8
+203,Venezuela (Bolivarian Republic of),95,95
+204,Viet Nam,16,62
+205,Western Asia,88,93
+206,Yemen,57,61
+207,Zambia,14,14
+208,Zimbabwe,34,29

@@ -1,0 +1,171 @@
+﻿S.No.,GeoAreaName,2001,2017
+1,Afghanistan,8.863,9.792
+2,Algeria,8.794,16.024
+3,American Samoa,0,75.085
+4,Angola,13.904,81.472
+5,Anguilla,0,146.764
+6,Antigua and Barbuda,0,40.87
+7,Argentina,234.094,244.819
+8,Armenia,331.893,452.367
+9,Aruba,0,361.614
+10,Azerbaijan,113.818,121.23
+11,Bahamas,0,3.508
+12,Bahrain,0,4.477
+13,Bangladesh,1.768,2.649
+14,Barbados,0.367,66.45
+15,Belize,121.732,291.85
+16,Benin,0.071,0.304
+17,Bhutan,595.484,2166.378
+18,Bolivia (Plurinational State of),46.225,71.102
+19,"Bonaire, Sint Eustatius and Saba",0,612.229
+20,Botswana,0,1.346
+21,Brazil,367.358,617.206
+22,British Virgin Islands,0,23.506
+23,Brunei Darussalam,0,2.827
+24,Burkina Faso,2.721,4.153
+25,Burundi,8.314,5.3
+26,Cabo Verde,0,62.205
+27,Cambodia,0.821,66.173
+28,Cameroon,45.157,30.281
+29,Cayman Islands,0,138.304
+30,Central African Republic,5.064,4.167
+31,Chad,0,0.085
+32,Chile,286.863,556.99
+33,China,61.015,436.901
+34,Colombia,217.682,246.807
+35,Comoros,0,1.779
+36,Congo,22.996,41.965
+37,Cook Islands,2.553,236.961
+38,Costa Rica,358.442,608.093
+39,Côte d'Ivoire,35.842,36.308
+40,Cuba,5.182,59.57
+41,Curaçao,92.788,358.673
+42,Democratic People's Republic of Korea,207.151,188.612
+43,Democratic Republic of the Congo,51.832,31.526
+44,Djibouti,0,0.383
+45,Dominica,110.232,104.114
+46,Dominican Republic,54.11,86.348
+47,Ecuador,134.746,280.856
+48,Egypt,41.659,39.991
+49,El Salvador,107.655,183.793
+50,Equatorial Guinea,8.866,99.524
+51,Eritrea,0,1.023
+52,Eswatini,102.409,150.275
+53,Ethiopia,7.008,41.032
+54,Falkland Islands (Malvinas),88.828,777.489
+55,Fiji,133.419,238.594
+56,French Guiana,672.295,607.753
+57,French Polynesia,196.906,300.89
+58,Gabon,135.293,161.219
+59,Gambia,0.009,1.532
+60,Georgia,595.939,792.981
+61,Ghana,60.018,56.021
+62,Grenada,0,20.203
+63,Guadeloupe,114.932,383.308
+64,Guam,0,212.593
+65,Guatemala,63.347,162.749
+66,Guinea,15.233,31.617
+67,Guinea-Bissau,0,0.171
+68,Guyana,29.666,61.443
+69,Haiti,6.538,5.348
+70,Honduras,64.945,168.561
+71,India,24.807,78.561
+72,Indonesia,21.706,34.594
+73,Iran (Islamic Republic of),30.249,153.805
+74,Iraq,27.677,61.536
+75,Jamaica,20.499,74.167
+76,Jordan,2.76,62.46
+77,Kazakhstan,151.574,166.766
+78,Kenya,23.417,33.039
+79,Kiribati,0.722,25.072
+80,Kuwait,0,10.949
+81,Kyrgyzstan,593.088,595.923
+82,Lao People's Democratic Republic,118.834,728.735
+83,Lebanon,70.659,44.417
+84,Lesotho,37.048,35.913
+85,Liberia,1.354,20.077
+86,Libya,0,0.777
+87,Madagascar,6.506,6.93
+88,Malawi,26.237,21.662
+89,Malaysia,115.99,235.745
+90,Maldives,0,22.035
+91,Mali,7.537,20.25
+92,Marshall Islands,0.778,27.716
+93,Martinique,0,193.379
+94,Mauritania,0,16.151
+95,Mauritius,101.402,150.937
+96,Mayotte,0,59.875
+97,Mexico,109.603,155.976
+98,Micronesia (Federated States of),20.155,11.52
+99,Mongolia,6.657,57.78
+100,Montserrat,0,0
+101,Morocco,42.148,71.242
+102,Mozambique,120.615,77.929
+103,Myanmar,6.725,62.807
+104,Namibia,132.234,175.744
+105,Nauru,0,67.127
+106,Nepal,16.537,35.951
+107,New Caledonia,373.41,519.02
+108,Nicaragua,28.727,105.517
+109,Niger,0.051,0.419
+110,Nigeria,16.629,11.228
+111,Niue,0,211.538
+112,Oman,0,1.76
+113,Other non-specified areas in Eastern Asia,98.586,209.556
+114,Pakistan,36.402,46.083
+115,Palau,0.206,71.874
+116,Panama,202.119,542.181
+117,Papua New Guinea,35.646,39.5
+118,Paraguay,1365.08,1288.685
+119,Peru,112.087,185.251
+120,Philippines,48.534,60.968
+121,Puerto Rico,27.191,116.688
+122,Qatar,0,15.818
+123,Republic of Korea,35.457,206.171
+124,Réunion,191.811,438.176
+125,Rwanda,4.993,10.58
+126,Saint Barthélemy,0,2.452
+127,Saint Kitts and Nevis,0,79.56
+128,Saint Lucia,0,4.614
+129,Saint Martin (French Part),0,2.735
+130,Saint Vincent and the Grenadines,52.274,62.918
+131,Samoa,85.579,135.771
+132,Sao Tome and Principe,16.027,12.729
+133,Saudi Arabia,0.017,1.122
+134,Senegal,1.04,8.95
+135,Seychelles,0,89.651
+136,Sierra Leone,0.841,13.156
+137,Singapore,37.502,57.712
+138,Solomon Islands,0.734,5.707
+139,Somalia,0,0.716
+140,South Africa,28.162,98.006
+141,South Sudan,0,0.041
+142,Sri Lanka,61.783,96.851
+143,State of Palestine,0,7.444
+144,Sudan,14.579,52.428
+145,Suriname,377.696,329.403
+146,Syrian Arab Republic,91.534,87.825
+147,Tajikistan,642.715,567.411
+148,Thailand,56.244,148.003
+149,Timor-Leste,0,0.747
+150,Togo,13.313,9.041
+151,Tokelau,13.944,802.621
+152,Tonga,0.579,63.048
+153,Trinidad and Tobago,4.253,2.398
+154,Tunisia,7.636,31.285
+155,Turkey,183.609,477.665
+156,Turkmenistan,0.263,0.208
+157,Turks and Caicos Islands,0,5.119
+158,Tuvalu,0.633,195.952
+159,Uganda,11.083,20.453
+160,United Arab Emirates,0,37.592
+161,United Republic of Tanzania,17.74,12.353
+162,United States Virgin Islands,0,48.623
+163,Uruguay,465.949,1082.978
+164,Uzbekistan,63.564,57.662
+165,Vanuatu,3.171,34.813
+166,Venezuela (Bolivarian Republic of),535.898,564.462
+167,Viet Nam,48.733,192.539
+168,Yemen,0,3.593
+169,Zambia,168.558,144.85
+170,Zimbabwe,61.204,62.326
